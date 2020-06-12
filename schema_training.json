@@ -1,0 +1,22 @@
+{	"SampleFileName": "FitBit_15052019_170448.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" :15,
+	"ColName": {
+				"Id" : "VARCHAR",
+				"ActivityDate" : "VARCHAR",
+				"TotalSteps": "FLOAT",
+				"TotalDistance": "FLOAT",
+				"TrackerDistance" : "FLOAT",
+				"LoggedActivitiesDistance" : "FLOAT",
+				"VeryActiveDistance" : "FLOAT",
+				"ModeratelyActiveDistance" : "FLOAT",
+				"LightActiveDistance" : "FLOAT",
+				"SedentaryActiveDistance" : "FLOAT",
+				"VeryActiveMinutes" : "FLOAT",
+				"FairlyActiveMinutes" : "FLOAT",
+				"LightlyActiveMinutes" : "FLOAT",
+				"SedentaryMinutes" : "FLOAT",
+				"Calories" : "FLOAT"
+	}
+}

@@ -3,7 +3,7 @@
  
  For more details about the project go through the docomentation file
  
- ![Docoment](Problem Statement.docx)
+ ![Docoment](Docomentation.docx)
 
 # Problem Statement
 To build a regression model to predict the calories burnt based on the given indicators in the training data. 
